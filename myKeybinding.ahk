@@ -95,7 +95,6 @@ Return
 #if
 
 CapsLock & k::
-Send, {Home}
 Send, {ShiftDown}{End}{ShiftUp}
 Send, ^x
 Return
